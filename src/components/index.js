@@ -1,4 +1,4 @@
 import PostsList from './PostsList';
 import App from './App';
-
-export { PostsList, App };
+import Navbar from './Navbar';
+export { PostsList, App, Navbar };
