@@ -11,12 +11,13 @@ class CreatePost extends Component {
   }
 
   handleOnClick = () => {
-    //dispatch action
+    // dispatch action
     this.props.dispatch(createPost(this.state.content));
   };
+
   handleChange = (e) => {
     this.setState({
-        content: e.target.value,
+      content: e.target.value,
     });
   };
   render() {
@@ -29,7 +30,9 @@ class CreatePost extends Component {
         />
 
         <div>
-            <button id="add-post-btn" onClick={this.handleOnClick} >Add Post</button>
+          <button id="add-post-btn" onClick={this.handleOnClick}>
+            Add Post
+          </button>
         </div>
       </div>
     );
