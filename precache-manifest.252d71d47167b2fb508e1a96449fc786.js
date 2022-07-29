@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9645141ac78325c945c09a6450cae022",
+    "revision": "11c4e74df3876d0a52e2fada3a9a3d6f",
     "url": "/codeial-final-live/index.html"
   },
   {
-    "revision": "6498328fbea975395901",
+    "revision": "d39bef9528c22c0aa1c0",
     "url": "/codeial-final-live/static/css/main.7b653a32.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/codeial-final-live/static/js/2.ff6b42fa.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6498328fbea975395901",
-    "url": "/codeial-final-live/static/js/main.c829a4fa.chunk.js"
+    "revision": "d39bef9528c22c0aa1c0",
+    "url": "/codeial-final-live/static/js/main.ebea3882.chunk.js"
   },
   {
     "revision": "a60458b3ccf8cb9e6bd5",

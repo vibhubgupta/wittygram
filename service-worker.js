@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/codeial-final-live/precache-manifest.0ae47628b9c234024f6af9769e7b0552.js"
+  "/codeial-final-live/precache-manifest.252d71d47167b2fb508e1a96449fc786.js"
 );
 
 self.addEventListener('message', (event) => {
