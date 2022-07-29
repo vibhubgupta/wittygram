@@ -24,6 +24,7 @@ class Navbar extends React.Component {
         <div className="left-div">
           <Link to="/">
             <img
+              // src="https://ninjasfiles.s3.amazonaws.com/0000000000003454.png"
               src="https://ninjasfiles.s3.amazonaws.com/0000000000003454.png"
               alt="logo"
             />
@@ -32,7 +33,7 @@ class Navbar extends React.Component {
         <div className="search-container">
           <img
             className="search-icon"
-            src="https://image.flaticon.com/icons/svg/483/483356.svg"
+            src="https://cdn-icons-png.flaticon.com/512/54/54481.png"
             alt="search-icon"
           />
           <input placeholder="Search" onChange={this.handleSearch} />
@@ -44,7 +45,7 @@ class Navbar extends React.Component {
                   <li className="search-results-row" key={user._id}>
                     <Link to={`/user/${user._id}`}>
                       <img
-                        src="https://image.flaticon.com/icons/svg/2154/2154651.svg"
+                        src="https://cdn-icons-png.flaticon.com/512/149/149071.png"
                         alt="user-dp"
                       />
                       <span>{user.name}</span>
@@ -60,7 +61,7 @@ class Navbar extends React.Component {
             <div className="user">
               <Link to="/settings">
                 <img
-                  src="https://image.flaticon.com/icons/svg/2154/2154651.svg"
+                  src="https://picsum.photos/200/200"
                   alt="user-dp"
                   id="user-dp"
                 />
