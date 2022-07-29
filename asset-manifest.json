@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/codeial-final-live/static/css/main.7b653a32.chunk.css",
+    "main.js": "/codeial-final-live/static/js/main.c829a4fa.chunk.js",
+    "main.js.map": "/codeial-final-live/static/js/main.c829a4fa.chunk.js.map",
+    "runtime-main.js": "/codeial-final-live/static/js/runtime-main.134dafa4.js",
+    "runtime-main.js.map": "/codeial-final-live/static/js/runtime-main.134dafa4.js.map",
+    "static/js/2.ff6b42fa.chunk.js": "/codeial-final-live/static/js/2.ff6b42fa.chunk.js",
+    "static/js/2.ff6b42fa.chunk.js.map": "/codeial-final-live/static/js/2.ff6b42fa.chunk.js.map",
+    "index.html": "/codeial-final-live/index.html",
+    "precache-manifest.0ae47628b9c234024f6af9769e7b0552.js": "/codeial-final-live/precache-manifest.0ae47628b9c234024f6af9769e7b0552.js",
+    "service-worker.js": "/codeial-final-live/service-worker.js",
+    "static/css/main.7b653a32.chunk.css.map": "/codeial-final-live/static/css/main.7b653a32.chunk.css.map",
+    "static/js/2.ff6b42fa.chunk.js.LICENSE.txt": "/codeial-final-live/static/js/2.ff6b42fa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.134dafa4.js",
+    "static/js/2.ff6b42fa.chunk.js",
+    "static/css/main.7b653a32.chunk.css",
+    "static/js/main.c829a4fa.chunk.js"
+  ]
+}
