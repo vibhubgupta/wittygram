@@ -195,7 +195,7 @@ code {
 /* NAVBAR */
 .nav {
   display: flex;
-  background: #6200ee;
+  background: #7e4ec3;
   padding: 10px 20px;
   align-items: center;
   justify-content: space-between;
@@ -381,6 +381,22 @@ nav .nav-links ul li:hover {
 .field {
   width: 100%;
 }
+.link-field {
+  box-sizing: border-box;
+  border-radius: 6px;
+  width: auto;
+  height: 40px;
+  margin-top: 15x;
+  padding: 10px;
+  font-size: 20px;
+  font-weight: 700;
+}
+.link-field span{
+  color: #ef7917;
+}
+.field-log-in button {
+  margin-top: 15px !important;
+}
 .field input {
   border: 1px solid rgba(0, 0, 0, 0.12);
   box-sizing: border-box;
@@ -495,6 +511,16 @@ nav .nav-links ul li:hover {
   border-top: 1px solid #d0d0d0;
   display: flex;
   justify-content: flex-end;
+}
+.create-post-heading {
+  border-top: 0 !important;
+  background: #a884db;
+  color: white;
+  justify-content: flex-start !important;
+  height: 1.4em;
+}
+.create-post-heading h5{
+  margin: 0;
 }
 .create-post textarea {
   height: 90px;
