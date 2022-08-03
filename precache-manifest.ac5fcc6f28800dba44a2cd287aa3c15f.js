@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad64305a797df1187a6feee0fffd9e48",
+    "revision": "7e9d30c711c443f3c179dc139b59f4b7",
     "url": "/wittygram/index.html"
   },
   {
-    "revision": "4cda3e0847b75ae04d14",
-    "url": "/wittygram/static/css/main.7b653a32.chunk.css"
+    "revision": "299befa110604da5cc3e",
+    "url": "/wittygram/static/css/main.062fc55f.chunk.css"
   },
   {
     "revision": "d337f5b6e607d7e64a87",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wittygram/static/js/2.ab2f8849.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4cda3e0847b75ae04d14",
+    "revision": "299befa110604da5cc3e",
     "url": "/wittygram/static/js/main.4b5d0d3e.chunk.js"
   },
   {

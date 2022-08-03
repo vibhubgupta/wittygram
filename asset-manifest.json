@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wittygram/static/css/main.7b653a32.chunk.css",
+    "main.css": "/wittygram/static/css/main.062fc55f.chunk.css",
     "main.js": "/wittygram/static/js/main.4b5d0d3e.chunk.js",
     "main.js.map": "/wittygram/static/js/main.4b5d0d3e.chunk.js.map",
     "runtime-main.js": "/wittygram/static/js/runtime-main.7ff06426.js",
@@ -8,15 +8,15 @@
     "static/js/2.ab2f8849.chunk.js": "/wittygram/static/js/2.ab2f8849.chunk.js",
     "static/js/2.ab2f8849.chunk.js.map": "/wittygram/static/js/2.ab2f8849.chunk.js.map",
     "index.html": "/wittygram/index.html",
-    "precache-manifest.bfeb3af8d84c10eb3b24fd10b7740e0f.js": "/wittygram/precache-manifest.bfeb3af8d84c10eb3b24fd10b7740e0f.js",
+    "precache-manifest.ac5fcc6f28800dba44a2cd287aa3c15f.js": "/wittygram/precache-manifest.ac5fcc6f28800dba44a2cd287aa3c15f.js",
     "service-worker.js": "/wittygram/service-worker.js",
-    "static/css/main.7b653a32.chunk.css.map": "/wittygram/static/css/main.7b653a32.chunk.css.map",
+    "static/css/main.062fc55f.chunk.css.map": "/wittygram/static/css/main.062fc55f.chunk.css.map",
     "static/js/2.ab2f8849.chunk.js.LICENSE.txt": "/wittygram/static/js/2.ab2f8849.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.7ff06426.js",
     "static/js/2.ab2f8849.chunk.js",
-    "static/css/main.7b653a32.chunk.css",
+    "static/css/main.062fc55f.chunk.css",
     "static/js/main.4b5d0d3e.chunk.js"
   ]
 }
