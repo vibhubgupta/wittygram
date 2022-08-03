@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/wittygram/precache-manifest.ac5fcc6f28800dba44a2cd287aa3c15f.js"
+  "/wittygram/precache-manifest.58c45d333d2f6c4e787e5d0ae262f745.js"
 );
 
 self.addEventListener('message', (event) => {
