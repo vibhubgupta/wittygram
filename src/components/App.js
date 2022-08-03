@@ -79,7 +79,7 @@ class App extends React.Component {
           <Switch>
             <Route
               exact
-              path="/"
+              path="/home"
               render={(props) => {
                 return (
                   <Home
