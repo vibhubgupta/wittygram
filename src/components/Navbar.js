@@ -1,7 +1,7 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import { Link } from 'react-router-dom';
-
+import IMG1 from '../assets/wittygram-logo1.png';
 import { logoutUser } from '../actions/auth';
 import { searchUsers } from '../actions/search';
 
@@ -23,10 +23,7 @@ class Navbar extends React.Component {
       <nav className="nav">
         <div className="left-div">
           <Link to="/">
-            <img
-              src="https://ninjasfiles.s3.amazonaws.com/0000000000003454.png"
-              alt="logo"
-            />
+            <img src={IMG1} alt="logo" />
           </Link>
         </div>
         <div className="search-container">

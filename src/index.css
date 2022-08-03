@@ -305,6 +305,27 @@ nav .nav-links ul li:hover {
   height: 27px;
 }
 
+@media screen and (max-width: 768px) {
+  body {
+    max-width: 100%;
+  }
+  .left-div {
+    display: none;
+  }
+  .search-container {
+    display: none;
+  }
+  .chat-container {
+    display: none;
+  }
+  .friends-list {
+    display: none;
+  }
+  .login-form {
+    width: 70% !important;
+  }
+}
+
 /* HOME AND FRIENDSLIST COMPONENT */
 .home {
   padding: 20px 50px;
@@ -391,7 +412,7 @@ nav .nav-links ul li:hover {
   font-size: 20px;
   font-weight: 700;
 }
-.link-field span{
+.link-field span {
   color: #ef7917;
 }
 .field-log-in button {
@@ -519,7 +540,7 @@ nav .nav-links ul li:hover {
   justify-content: flex-start !important;
   height: 1.4em;
 }
-.create-post-heading h5{
+.create-post-heading h5 {
   margin: 0;
 }
 .create-post textarea {
