@@ -71,15 +71,17 @@ class App extends React.Component {
 
   render() {
     const { posts, auth, friends } = this.props;
+    const basename =
+      document.querySelector('base')?.getAttribute('href') ?? '/';
     return (
-      <Router>
+      <Router basename={basename}>
         <div>
           <Navbar />
 
           <Switch>
             <Route
               exact
-              path="/home"
+              path="/"
               render={(props) => {
                 return (
                   <Home

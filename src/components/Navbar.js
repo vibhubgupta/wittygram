@@ -24,7 +24,6 @@ class Navbar extends React.Component {
         <div className="left-div">
           <Link to="/">
             <img
-              // src="https://ninjasfiles.s3.amazonaws.com/0000000000003454.png"
               src="https://ninjasfiles.s3.amazonaws.com/0000000000003454.png"
               alt="logo"
             />
