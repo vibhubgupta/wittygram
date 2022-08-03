@@ -1,7 +1,7 @@
 Demo of the project: https://drive.google.com/file/d/1B5-h1nC0wITDP-frMPmNT4htNvzhD6P8/view?usp=sharing
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Facebook Clone
 
 In the project directory, you can run:
 
