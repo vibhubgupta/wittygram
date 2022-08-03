@@ -32,7 +32,7 @@ class Chat extends Component {
       });
 
       socketConnection.on('user_joined', function (data) {
-        console.log('NE USER JOINED', data);
+        console.log('NEW USER JOINED', data);
       });
     });
 
