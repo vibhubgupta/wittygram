@@ -1,10 +1,14 @@
-Demo of the project: https://drive.google.com/file/d/1B5-h1nC0wITDP-frMPmNT4htNvzhD6P8/view?usp=sharing
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Facebook Clone
 
-In the project directory, you can run:
+[Demo of the live project ](https://drive.google.com/file/d/1B5-h1nC0wITDP-frMPmNT4htNvzhD6P8/view?usp=sharing)
 
+WittyGram, a facebook clone like project with features like CRUD on profile with secure login/signup, friend list, actions like posting, commenting & chatting.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+In the project directory, you can run:
 ### `yarn start`
 
 Runs the app in the development mode.<br />
